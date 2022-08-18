@@ -15,6 +15,9 @@
 .custom-width{
     width: 50%;
 }
+.custom-bg{
+    background-color: #F4FAFD;
+}
 @media only screen and (max-width:991px) {
     .custom-card{
         width: 100%;
