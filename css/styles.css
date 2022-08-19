@@ -18,6 +18,13 @@
 .custom-bg{
     background-color: #F4FAFD;
 }
+.custom-height{
+    height: 250px;
+    background-color: #289BDE;
+}
+.custom-button{
+    color: #289BDE;
+}
 @media only screen and (max-width:991px) {
     .custom-card{
         width: 100%;
