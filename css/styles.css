@@ -18,6 +18,9 @@
 .custom-width-2{
     width: 40%;
 }
+.custom-width-3{
+    width: 50%;
+}
 .custom-bg{
     background-color: #F4FAFD;
 }
@@ -28,20 +31,29 @@
 .custom-button{
     color: #289BDE;
 }
+.custom-icon-bg{
+    color: #fdc304;
+}
 @media only screen and (max-width:991px) {
     .custom-card{
         width: 100%;
     }
     .custom-width{
-        width: 1000%;
+        width: 100%;
     }
     .custom-width-2{
         width: 70%;
+    }
+    .custom-width-3{
+        width: 80%;
     }
 }
 @media only screen and (max-width:767px){
     .custom-width-2{
         width: 100%;
         text-align: center;
+    }
+    .custom-width-3{
+        width: 100%;
     }
 }
