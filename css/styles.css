@@ -42,6 +42,9 @@
 .custom-icon-bg{
     color: #fdc304;
 }
+footer{
+    height: 300px;
+}
 @media only screen and (max-width:991px) {
     .custom-card{
         width: 100%;
