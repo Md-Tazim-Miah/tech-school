@@ -1,3 +1,7 @@
+.institute-name{
+    color: #289BDE;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .custom-carousel-item::before{
     content: "";
     display: block;
